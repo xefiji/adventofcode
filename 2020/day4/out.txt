@@ -1,0 +1,2256 @@
+result of part 1 is 192
+hcl:9c9409		-> false
+iyr:2020		-> true
+eyr:2030		-> true
+hgt:156in		-> false
+pid:732321495		-> true
+byr:1937		-> true
+ecl:xry		-> false
+valid: false
+-------------------------
+eyr:2020		-> true
+ecl:amb		-> true
+pid:490866828		-> true
+hcl:#cfa07d		-> true
+hgt:165cm		-> true
+valid: false
+-------------------------
+hgt:142		-> false
+hcl:z		-> false
+pid:152cm		-> false
+iyr:1953		-> false
+eyr:2040		-> false
+ecl:#e44f11		-> false
+byr:2024		-> false
+valid: false
+-------------------------
+byr:1977		-> true
+hcl:#b6652a		-> true
+iyr:2017		-> true
+ecl:oth		-> true
+pid:703877876		-> true
+hgt:185cm		-> true
+valid: false
+-------------------------
+eyr:2036		-> false
+byr:1991		-> true
+ecl:#2202d0		-> false
+hcl:#341e13		-> true
+pid:85636989		-> false
+hgt:61cm		-> false
+iyr:1930		-> false
+valid: false
+-------------------------
+ecl:oth		-> true
+byr:1998		-> true
+pid:479696359		-> true
+hgt:174cm		-> true
+iyr:2017		-> true
+eyr:2020		-> true
+hcl:#6b5442		-> true
+valid: true
+-------------------------
+hgt:179cm		-> true
+ecl:hzl		-> true
+iyr:2011		-> true
+byr:1982		-> true
+eyr:2020		-> true
+hcl:#efcc98		-> true
+pid:626732917		-> true
+valid: true
+-------------------------
+hcl:z		-> false
+pid:99347800		-> false
+iyr:2030		-> false
+eyr:2032		-> false
+ecl:#cd1fd7		-> false
+hgt:192cm		-> true
+byr:2019		-> false
+valid: false
+-------------------------
+eyr:2038		-> false
+hcl:cc324a		-> false
+byr:1983		-> true
+ecl:brn		-> true
+hgt:161		-> false
+pid:#adf47f		-> false
+valid: false
+-------------------------
+iyr:2016		-> true
+hgt:74in		-> true
+hcl:#18171d		-> true
+byr:1959		-> true
+ecl:blu		-> true
+pid:848487392		-> true
+eyr:2027		-> true
+valid: true
+-------------------------
+hcl:#efcc98		-> true
+pid:353178375		-> true
+iyr:2018		-> true
+byr:1988		-> true
+ecl:oth		-> true
+eyr:2029		-> true
+valid: false
+-------------------------
+pid:333485773		-> true
+hgt:167in		-> true
+ecl:zzz		-> false
+iyr:1945		-> false
+eyr:2035		-> false
+hcl:#341e13		-> true
+valid: false
+-------------------------
+byr:2004		-> false
+iyr:1941		-> false
+hcl:e1e4bb		-> false
+hgt:67cm		-> false
+pid:1143915351		-> false
+ecl:#0d3e5d		-> false
+eyr:1972		-> false
+valid: false
+-------------------------
+eyr:2019		-> false
+hcl:#ceb3a1		-> true
+pid:988269284		-> true
+iyr:2015		-> true
+byr:1989		-> true
+hgt:171cm		-> true
+ecl:oth		-> true
+valid: false
+-------------------------
+eyr:2024		-> true
+hcl:#18171d		-> true
+ecl:grn		-> true
+hgt:160cm		-> true
+pid:399767457		-> true
+byr:1979		-> true
+iyr:2015		-> true
+valid: true
+-------------------------
+hgt:174cm		-> true
+byr:1970		-> true
+eyr:2021		-> true
+hcl:#341e13		-> true
+pid:086579106		-> true
+iyr:2017		-> true
+ecl:oth		-> true
+valid: true
+-------------------------
+ecl:amb		-> true
+eyr:2025		-> true
+hcl:#c0946f		-> true
+pid:360891963		-> true
+byr:1925		-> true
+iyr:2017		-> true
+hgt:180cm		-> true
+valid: true
+-------------------------
+eyr:2022		-> true
+hgt:183cm		-> true
+byr:2000		-> true
+iyr:2016		-> true
+hcl:#a97842		-> true
+ecl:blu		-> true
+pid:500935725		-> true
+valid: true
+-------------------------
+iyr:2010		-> true
+eyr:2025		-> true
+byr:1976		-> true
+pid:398376853		-> true
+hcl:#341e13		-> true
+hgt:150cm		-> true
+valid: false
+-------------------------
+hcl:6c4ecd		-> false
+byr:1930		-> true
+hgt:179cm		-> true
+eyr:2007		-> false
+iyr:2028		-> false
+ecl:#3d8705		-> false
+pid:#dbfeec		-> false
+valid: false
+-------------------------
+iyr:2020		-> true
+eyr:2033		-> false
+pid:#3f8e9d		-> false
+hgt:190in		-> false
+ecl:brn		-> true
+hcl:#efcc98		-> true
+byr:2004		-> false
+valid: false
+-------------------------
+eyr:2021		-> true
+hgt:157cm		-> true
+ecl:utc		-> false
+iyr:2014		-> true
+byr:1934		-> true
+hcl:#623a2f		-> true
+pid:607329117		-> true
+valid: false
+-------------------------
+hcl:c352d2		-> false
+byr:1927		-> true
+ecl:gmt		-> false
+hgt:187cm		-> true
+eyr:2031		-> false
+pid:170cm		-> false
+valid: false
+-------------------------
+eyr:2030		-> true
+hcl:#733820		-> true
+byr:1988		-> true
+iyr:2017		-> true
+hgt:193cm		-> true
+ecl:amb		-> true
+pid:939550667		-> true
+valid: true
+-------------------------
+eyr:1957		-> false
+ecl:hzl		-> true
+pid:#e56ca2		-> false
+byr:2003		-> false
+hcl:8a9d65		-> false
+valid: false
+-------------------------
+hcl:#cfa07d		-> true
+iyr:2014		-> true
+ecl:blu		-> true
+eyr:2023		-> true
+hgt:70in		-> true
+byr:1961		-> true
+valid: false
+-------------------------
+ecl:lzr		-> false
+hcl:#341e13		-> true
+hgt:69cm		-> false
+eyr:2026		-> true
+byr:2006		-> false
+pid:827964469		-> true
+valid: false
+-------------------------
+ecl:hzl		-> true
+iyr:2014		-> true
+hcl:#cfa07d		-> true
+hgt:163cm		-> true
+eyr:2025		-> true
+byr:1951		-> true
+pid:563337128		-> true
+valid: true
+-------------------------
+hgt:183cm		-> true
+hcl:#e8fa30		-> true
+ecl:oth		-> true
+eyr:2021		-> true
+byr:1943		-> true
+pid:667658434		-> true
+iyr:2010		-> true
+valid: true
+-------------------------
+eyr:2028		-> true
+hgt:157cm		-> true
+iyr:2010		-> true
+byr:1927		-> true
+ecl:brn		-> true
+pid:893074368		-> true
+valid: false
+-------------------------
+eyr:2020		-> true
+pid:874307939		-> true
+hcl:#3f85a4		-> true
+ecl:gry		-> true
+hgt:167cm		-> true
+byr:1959		-> true
+iyr:2014		-> true
+valid: true
+-------------------------
+hgt:165in		-> true
+ecl:grn		-> true
+byr:1960		-> true
+eyr:2029		-> true
+iyr:2017		-> true
+hcl:#b6652a		-> true
+pid:096349067		-> true
+valid: true
+-------------------------
+hgt:188cm		-> true
+ecl:amb		-> true
+iyr:2011		-> true
+pid:949021029		-> true
+eyr:2028		-> true
+hcl:#fffffd		-> true
+byr:1986		-> true
+valid: true
+-------------------------
+hcl:#6b5442		-> true
+iyr:2011		-> true
+pid:040592028		-> true
+eyr:2026		-> true
+ecl:amb		-> true
+byr:1923		-> true
+valid: false
+-------------------------
+hgt:173cm		-> true
+pid:735853952		-> true
+ecl:gry		-> true
+hcl:#fffffd		-> true
+eyr:2025		-> true
+iyr:2020		-> true
+byr:1923		-> true
+valid: true
+-------------------------
+ecl:amb		-> true
+hgt:170in		-> true
+byr:2013		-> false
+iyr:2024		-> false
+eyr:2033		-> false
+hcl:#888785		-> true
+valid: false
+-------------------------
+hcl:#c0946f		-> true
+eyr:2022		-> true
+iyr:2015		-> true
+hgt:157cm		-> true
+byr:1928		-> true
+ecl:grn		-> true
+pid:243566446		-> true
+valid: true
+-------------------------
+byr:1965		-> true
+iyr:2011		-> true
+hcl:#6b5442		-> true
+hgt:68in		-> true
+eyr:2028		-> true
+pid:813272708		-> true
+ecl:hzl		-> true
+valid: true
+-------------------------
+ecl:gry		-> true
+hgt:156cm		-> true
+iyr:2018		-> true
+hcl:#5d9d64		-> true
+pid:295386055		-> true
+byr:1996		-> true
+eyr:2025		-> true
+valid: true
+-------------------------
+eyr:2026		-> true
+hgt:183cm		-> true
+iyr:2011		-> true
+byr:1940		-> true
+ecl:blu		-> true
+pid:810026000		-> true
+hcl:#866857		-> true
+valid: true
+-------------------------
+hcl:#623a2f		-> true
+byr:1996		-> true
+eyr:2028		-> true
+pid:181384347		-> true
+hgt:175cm		-> true
+iyr:2020		-> true
+valid: false
+-------------------------
+hcl:#efcc98		-> true
+hgt:180cm		-> true
+iyr:2020		-> true
+pid:202682423		-> true
+byr:2027		-> false
+ecl:grn		-> true
+eyr:2030		-> true
+valid: false
+-------------------------
+eyr:1989		-> false
+hcl:4f8779		-> false
+ecl:#05ff52		-> false
+iyr:1943		-> false
+pid:3693010880		-> false
+hgt:72cm		-> false
+byr:2009		-> false
+valid: false
+-------------------------
+pid:2037156813		-> false
+eyr:1978		-> false
+ecl:grn		-> true
+hcl:519b45		-> false
+iyr:2011		-> true
+byr:2017		-> false
+valid: false
+-------------------------
+eyr:2027		-> true
+iyr:2021		-> false
+pid:632405666		-> true
+byr:2027		-> false
+ecl:#d83a36		-> false
+hcl:z		-> false
+hgt:190in		-> false
+valid: false
+-------------------------
+ecl:amb		-> true
+eyr:2022		-> true
+byr:1947		-> true
+iyr:2013		-> true
+hcl:#cfa07d		-> true
+hgt:188cm		-> true
+pid:447734900		-> true
+valid: true
+-------------------------
+ecl:blu		-> true
+hgt:182cm		-> true
+pid:178cm		-> false
+byr:2019		-> false
+eyr:2025		-> true
+iyr:2022		-> false
+hcl:#a2117d		-> true
+valid: false
+-------------------------
+ecl:brn		-> true
+byr:1993		-> true
+hgt:179cm		-> true
+hcl:#341e13		-> true
+pid:855375268		-> true
+eyr:2028		-> true
+iyr:2018		-> true
+valid: true
+-------------------------
+ecl:lzr		-> false
+iyr:2013		-> true
+byr:1991		-> true
+hcl:2f49ef		-> false
+hgt:191cm		-> true
+pid:378428551		-> true
+valid: false
+-------------------------
+iyr:2011		-> true
+hgt:192cm		-> true
+hcl:#b6652a		-> true
+byr:1988		-> true
+pid:998875769		-> true
+ecl:#e612d9		-> false
+eyr:2015		-> false
+valid: false
+-------------------------
+hgt:64in		-> true
+eyr:2023		-> true
+ecl:gry		-> true
+hcl:#c0946f		-> true
+pid:212611149		-> true
+byr:1928		-> true
+iyr:2010		-> true
+valid: true
+-------------------------
+hcl:#7d3b0c		-> true
+iyr:2018		-> true
+pid:065652921		-> true
+byr:1939		-> true
+ecl:blu		-> true
+hgt:180cm		-> true
+eyr:2028		-> true
+valid: true
+-------------------------
+iyr:2020		-> true
+ecl:grn		-> true
+hgt:179cm		-> true
+byr:1929		-> true
+hcl:#602927		-> true
+pid:212212232		-> true
+valid: false
+-------------------------
+byr:2021		-> false
+ecl:blu		-> true
+iyr:1963		-> false
+pid:2911597977		-> false
+hcl:#ceb3a1		-> true
+eyr:2020		-> true
+hgt:154cm		-> true
+valid: false
+-------------------------
+eyr:2020		-> true
+hgt:177cm		-> true
+iyr:2013		-> true
+ecl:grn		-> true
+byr:1998		-> true
+pid:455369144		-> true
+valid: false
+-------------------------
+pid:791399958		-> true
+byr:1956		-> true
+eyr:2027		-> true
+hcl:#602927		-> true
+ecl:brn		-> true
+iyr:2016		-> true
+hgt:192cm		-> true
+valid: true
+-------------------------
+hgt:165in		-> true
+ecl:#db642f		-> false
+iyr:2014		-> true
+eyr:2020		-> true
+byr:1955		-> true
+hcl:371f72		-> false
+pid:756089060		-> true
+valid: false
+-------------------------
+hcl:#888785		-> true
+eyr:2026		-> true
+byr:1984		-> true
+iyr:2013		-> true
+pid:935837461		-> true
+hgt:193cm		-> true
+ecl:gry		-> true
+valid: true
+-------------------------
+hgt:181cm		-> true
+eyr:2021		-> true
+iyr:2016		-> true
+byr:1966		-> true
+ecl:oth		-> true
+pid:779435812		-> true
+hcl:#733820		-> true
+valid: true
+-------------------------
+byr:1977		-> true
+hcl:#733820		-> true
+iyr:2020		-> true
+ecl:#698d72		-> false
+hgt:186cm		-> true
+pid:678869986		-> true
+eyr:2021		-> true
+valid: false
+-------------------------
+pid:599795227		-> true
+iyr:2016		-> true
+ecl:grn		-> true
+hcl:#cfa07d		-> true
+hgt:157cm		-> true
+byr:1967		-> true
+eyr:2029		-> true
+valid: true
+-------------------------
+hgt:182cm		-> true
+iyr:2019		-> true
+hcl:#866857		-> true
+ecl:grn		-> true
+byr:1926		-> true
+eyr:2029		-> true
+pid:307880154		-> true
+valid: true
+-------------------------
+hcl:#efcc98		-> true
+pid:709772213		-> true
+ecl:oth		-> true
+byr:1998		-> true
+iyr:2010		-> true
+hgt:74in		-> true
+eyr:2029		-> true
+valid: true
+-------------------------
+hgt:174cm		-> true
+ecl:gry		-> true
+iyr:2014		-> true
+eyr:2029		-> true
+hcl:#c0946f		-> true
+byr:1967		-> true
+pid:406306240		-> true
+valid: true
+-------------------------
+hgt:162cm		-> true
+pid:897792747		-> true
+byr:1968		-> true
+hcl:#ceb3a1		-> true
+ecl:grn		-> true
+eyr:2026		-> true
+iyr:2014		-> true
+valid: true
+-------------------------
+ecl:gry		-> true
+iyr:2011		-> true
+hgt:167cm		-> true
+hcl:#fffffd		-> true
+pid:001642707		-> true
+eyr:2030		-> true
+byr:1952		-> true
+valid: true
+-------------------------
+hcl:#b6652a		-> true
+eyr:2021		-> true
+hgt:168cm		-> true
+byr:1921		-> true
+iyr:2018		-> true
+ecl:oth		-> true
+pid:021318713		-> true
+valid: true
+-------------------------
+eyr:2016		-> false
+hcl:z		-> false
+pid:025915371		-> true
+iyr:2010		-> true
+hgt:183cm		-> true
+ecl:gry		-> true
+byr:2010		-> false
+valid: false
+-------------------------
+ecl:#43f305		-> false
+hcl:z		-> false
+byr:2028		-> false
+pid:63518738		-> false
+eyr:2037		-> false
+hgt:67cm		-> false
+iyr:1929		-> false
+valid: false
+-------------------------
+byr:1987		-> true
+eyr:2025		-> true
+hgt:74in		-> true
+ecl:brn		-> true
+hcl:#4a6c75		-> true
+pid:20220733		-> false
+iyr:2028		-> false
+valid: false
+-------------------------
+byr:1987		-> true
+hcl:d397d9		-> false
+iyr:2028		-> false
+hgt:158cm		-> true
+pid:686994921		-> true
+ecl:hzl		-> true
+valid: false
+-------------------------
+hgt:165cm		-> true
+ecl:oth		-> true
+iyr:2020		-> true
+eyr:2028		-> true
+hcl:#18171d		-> true
+pid:111506895		-> true
+valid: false
+-------------------------
+ecl:gry		-> true
+iyr:2013		-> true
+pid:855457285		-> true
+eyr:2030		-> true
+hcl:#733820		-> true
+byr:1973		-> true
+valid: false
+-------------------------
+pid:157cm		-> false
+iyr:2030		-> false
+hgt:152cm		-> true
+hcl:ce8aa7		-> false
+eyr:1976		-> false
+ecl:grt		-> false
+byr:2011		-> false
+valid: false
+-------------------------
+ecl:brn		-> true
+eyr:2023		-> true
+hcl:#b6652a		-> true
+byr:1948		-> true
+hgt:71in		-> true
+iyr:2015		-> true
+pid:575973478		-> true
+valid: true
+-------------------------
+hgt:184cm		-> true
+hcl:#623a2f		-> true
+eyr:2028		-> true
+pid:680951513		-> true
+ecl:grn		-> true
+iyr:2014		-> true
+byr:2001		-> true
+valid: true
+-------------------------
+hcl:#b6652a		-> true
+byr:1966		-> true
+iyr:2017		-> true
+pid:117232314		-> true
+ecl:oth		-> true
+hgt:186cm		-> true
+eyr:2029		-> true
+valid: true
+-------------------------
+pid:809135189		-> true
+iyr:2020		-> true
+hgt:162cm		-> true
+eyr:2027		-> true
+hcl:#888785		-> true
+byr:1988		-> true
+ecl:grn		-> true
+valid: true
+-------------------------
+iyr:2013		-> true
+ecl:blu		-> true
+hcl:#866857		-> true
+byr:1981		-> true
+hgt:157cm		-> true
+eyr:2025		-> true
+pid:216910202		-> true
+valid: true
+-------------------------
+hcl:#18171d		-> true
+ecl:#2defe4		-> false
+hgt:128		-> false
+byr:1940		-> true
+pid:181904523		-> true
+iyr:2022		-> false
+eyr:1937		-> false
+valid: false
+-------------------------
+eyr:2025		-> true
+iyr:1957		-> false
+ecl:blu		-> true
+pid:253552114		-> true
+hgt:188cm		-> true
+hcl:z		-> false
+valid: false
+-------------------------
+hgt:73cm		-> false
+ecl:amb		-> true
+iyr:2019		-> true
+hcl:#733820		-> true
+eyr:2021		-> true
+byr:1939		-> true
+pid:364966395		-> true
+valid: false
+-------------------------
+iyr:2013		-> true
+hcl:#ceb3a1		-> true
+hgt:163cm		-> true
+eyr:2023		-> true
+pid:761215570		-> true
+valid: false
+-------------------------
+eyr:2026		-> true
+hgt:154cm		-> true
+iyr:2012		-> true
+pid:6632346648		-> false
+ecl:amb		-> true
+byr:2010		-> false
+hcl:z		-> false
+valid: false
+-------------------------
+ecl:amb		-> true
+iyr:2020		-> true
+byr:1967		-> true
+hcl:#fffffd		-> true
+eyr:2028		-> true
+hgt:157cm		-> true
+valid: false
+-------------------------
+byr:1972		-> true
+iyr:2016		-> true
+pid:876104259		-> true
+hgt:173cm		-> true
+eyr:2028		-> true
+ecl:brn		-> true
+hcl:#733820		-> true
+valid: true
+-------------------------
+pid:166477382		-> true
+ecl:oth		-> true
+byr:1982		-> true
+iyr:2010		-> true
+eyr:2020		-> true
+hcl:#866857		-> true
+hgt:60in		-> true
+valid: true
+-------------------------
+byr:1980		-> true
+hcl:#c0946f		-> true
+hgt:159cm		-> true
+pid:177650318		-> true
+eyr:2024		-> true
+ecl:amb		-> true
+iyr:2019		-> true
+valid: true
+-------------------------
+eyr:2040		-> false
+hgt:156in		-> false
+ecl:oth		-> true
+iyr:1996		-> false
+pid:81500971		-> false
+hcl:#6b5442		-> true
+byr:2017		-> false
+valid: false
+-------------------------
+ecl:oth		-> true
+byr:1982		-> true
+eyr:2027		-> true
+hgt:65in		-> true
+iyr:2019		-> true
+hcl:#efcc98		-> true
+pid:854228141		-> true
+valid: true
+-------------------------
+pid:262917603		-> true
+ecl:gry		-> true
+iyr:2012		-> true
+hcl:#fffffd		-> true
+hgt:165cm		-> true
+eyr:2022		-> true
+byr:1965		-> true
+valid: true
+-------------------------
+hcl:#a97842		-> true
+byr:1959		-> true
+iyr:2019		-> true
+pid:690444949		-> true
+hgt:160in		-> true
+eyr:1978		-> false
+valid: false
+-------------------------
+hgt:168		-> false
+pid:222439573		-> true
+hcl:z		-> false
+byr:2016		-> false
+ecl:#26a0fb		-> false
+eyr:2031		-> false
+valid: false
+-------------------------
+hcl:#18171d		-> true
+ecl:oth		-> true
+iyr:2018		-> true
+byr:1949		-> true
+hgt:165cm		-> true
+eyr:2029		-> true
+pid:078204562		-> true
+valid: true
+-------------------------
+iyr:2017		-> true
+eyr:2021		-> true
+ecl:gry		-> true
+byr:1979		-> true
+hgt:168cm		-> true
+hcl:#6b5442		-> true
+pid:950995084		-> true
+valid: true
+-------------------------
+ecl:#dcae8b		-> false
+iyr:2027		-> false
+eyr:1940		-> false
+byr:2009		-> false
+hcl:f024de		-> false
+pid:20713584		-> false
+hgt:169in		-> true
+valid: false
+-------------------------
+pid:21573000		-> false
+byr:2030		-> false
+hcl:baee61		-> false
+eyr:2021		-> true
+hgt:150cm		-> true
+iyr:1950		-> false
+ecl:#acdd7e		-> false
+valid: false
+-------------------------
+hgt:152in		-> false
+byr:1990		-> true
+iyr:2027		-> false
+hcl:a4a3ae		-> false
+ecl:#058ae2		-> false
+eyr:2037		-> false
+pid:646420120		-> true
+valid: false
+-------------------------
+iyr:1994		-> false
+eyr:2035		-> false
+ecl:xry		-> false
+hcl:z		-> false
+hgt:167in		-> true
+pid:159cm		-> false
+valid: false
+-------------------------
+ecl:dne		-> false
+byr:2015		-> false
+pid:330208482		-> true
+hcl:#7d3b0c		-> true
+iyr:2014		-> true
+eyr:2022		-> true
+hgt:95		-> false
+valid: false
+-------------------------
+ecl:blu		-> true
+eyr:2021		-> true
+hgt:60in		-> true
+hcl:#623a2f		-> true
+byr:1930		-> true
+iyr:2018		-> true
+valid: false
+-------------------------
+iyr:1953		-> false
+hgt:160in		-> true
+ecl:grt		-> false
+eyr:2034		-> false
+pid:179cm		-> false
+byr:2007		-> false
+hcl:6895eb		-> false
+valid: false
+-------------------------
+hcl:#888785		-> true
+byr:1935		-> true
+iyr:2018		-> true
+hgt:155cm		-> true
+ecl:grn		-> true
+pid:612879095		-> true
+eyr:2027		-> true
+valid: true
+-------------------------
+byr:2002		-> true
+ecl:brn		-> true
+iyr:1998		-> false
+hgt:60cm		-> false
+hcl:#7d3b0c		-> true
+pid:#90286d		-> false
+eyr:1938		-> false
+valid: false
+-------------------------
+iyr:2017		-> true
+ecl:brn		-> true
+hcl:#602927		-> true
+hgt:172cm		-> true
+pid:932690969		-> true
+byr:1957		-> true
+eyr:2026		-> true
+valid: true
+-------------------------
+pid:293598838		-> true
+byr:1960		-> true
+iyr:2018		-> true
+ecl:blu		-> true
+eyr:2029		-> true
+hcl:#7d3b0c		-> true
+hgt:62in		-> true
+valid: true
+-------------------------
+ecl:brn		-> true
+hcl:#888785		-> true
+pid:495215177		-> true
+byr:1962		-> true
+eyr:2021		-> true
+hgt:151cm		-> true
+iyr:2012		-> true
+valid: true
+-------------------------
+byr:1925		-> true
+hcl:#7d3b0c		-> true
+ecl:gry		-> true
+eyr:2024		-> true
+pid:694714722		-> true
+hgt:158cm		-> true
+iyr:2015		-> true
+valid: true
+-------------------------
+byr:1998		-> true
+ecl:hzl		-> true
+eyr:2027		-> true
+hgt:152cm		-> true
+pid:734870801		-> true
+hcl:#7d3b0c		-> true
+iyr:2013		-> true
+valid: true
+-------------------------
+hcl:#341e13		-> true
+hgt:188cm		-> true
+ecl:blu		-> true
+pid:868930517		-> true
+eyr:2029		-> true
+iyr:2010		-> true
+byr:1938		-> true
+valid: true
+-------------------------
+hgt:169cm		-> true
+iyr:2014		-> true
+ecl:oth		-> true
+eyr:2029		-> true
+pid:348737413		-> true
+hcl:#b6652a		-> true
+byr:1997		-> true
+valid: true
+-------------------------
+hcl:#888785		-> true
+pid:457433756		-> true
+eyr:2022		-> true
+hgt:186cm		-> true
+byr:1923		-> true
+iyr:2013		-> true
+ecl:oth		-> true
+valid: true
+-------------------------
+byr:1996		-> true
+iyr:2027		-> false
+hcl:z		-> false
+pid:780164868		-> true
+ecl:zzz		-> false
+eyr:2026		-> true
+hgt:73cm		-> false
+valid: false
+-------------------------
+eyr:2031		-> false
+pid:823539963		-> true
+iyr:1957		-> false
+hgt:159cm		-> true
+byr:1953		-> true
+ecl:oth		-> true
+hcl:26d85f		-> false
+valid: false
+-------------------------
+eyr:2029		-> true
+byr:1982		-> true
+pid:578085789		-> true
+ecl:brn		-> true
+hgt:187cm		-> true
+iyr:2010		-> true
+hcl:#c0946f		-> true
+valid: true
+-------------------------
+hcl:632b01		-> false
+byr:1933		-> true
+ecl:hzl		-> true
+iyr:2025		-> false
+eyr:2040		-> false
+hgt:191cm		-> true
+pid:406010613		-> true
+valid: false
+-------------------------
+pid:168cm		-> false
+hcl:b13f1e		-> false
+eyr:2038		-> false
+iyr:2020		-> true
+ecl:#7c0a6d		-> false
+hgt:169in		-> true
+valid: false
+-------------------------
+iyr:2029		-> false
+ecl:grt		-> false
+hcl:z		-> false
+byr:2011		-> false
+hgt:64cm		-> false
+pid:37027672		-> false
+eyr:1923		-> false
+valid: false
+-------------------------
+ecl:gmt		-> false
+hcl:be7483		-> false
+eyr:2027		-> true
+iyr:2026		-> false
+pid:396722617		-> true
+hgt:153cm		-> true
+valid: false
+-------------------------
+ecl:#924147		-> false
+pid:665314		-> false
+iyr:2026		-> false
+hcl:z		-> false
+byr:2023		-> false
+hgt:157		-> false
+eyr:1987		-> false
+valid: false
+-------------------------
+ecl:xry		-> false
+pid:#546891		-> false
+hcl:#18171d		-> true
+hgt:71cm		-> false
+byr:1974		-> true
+iyr:2018		-> true
+eyr:2026		-> true
+valid: false
+-------------------------
+eyr:2032		-> false
+pid:193cm		-> false
+hcl:z		-> false
+hgt:68cm		-> false
+byr:2016		-> false
+valid: false
+-------------------------
+eyr:2030		-> true
+pid:053251865		-> true
+byr:2028		-> false
+hgt:174cm		-> true
+iyr:2015		-> true
+hcl:5a0da9		-> false
+ecl:hzl		-> true
+valid: false
+-------------------------
+eyr:2023		-> true
+hgt:172cm		-> true
+iyr:2012		-> true
+hcl:#a97842		-> true
+ecl:hzl		-> true
+byr:1982		-> true
+pid:638759541		-> true
+valid: true
+-------------------------
+hcl:z		-> false
+ecl:hzl		-> true
+eyr:2027		-> true
+byr:2015		-> false
+pid:302526406		-> true
+hgt:175cm		-> true
+iyr:2017		-> true
+valid: false
+-------------------------
+iyr:2015		-> true
+eyr:2025		-> true
+ecl:brn		-> true
+hgt:180cm		-> true
+hcl:#b6652a		-> true
+byr:1938		-> true
+pid:752379523		-> true
+valid: true
+-------------------------
+iyr:1949		-> false
+pid:#8a8d94		-> false
+ecl:#922a92		-> false
+byr:1925		-> true
+hcl:#63c4a5		-> true
+valid: false
+-------------------------
+ecl:gry		-> true
+hgt:172cm		-> true
+iyr:2013		-> true
+hcl:#efcc98		-> true
+byr:1970		-> true
+pid:848996674		-> true
+eyr:2027		-> true
+valid: true
+-------------------------
+hgt:181cm		-> true
+byr:1970		-> true
+eyr:2024		-> true
+pid:476171876		-> true
+ecl:hzl		-> true
+hcl:#efcc98		-> true
+iyr:2019		-> true
+valid: true
+-------------------------
+hcl:#38dbf4		-> true
+byr:1925		-> true
+ecl:amb		-> true
+eyr:2020		-> true
+pid:065102805		-> true
+iyr:2018		-> true
+valid: false
+-------------------------
+hcl:#fffffd		-> true
+ecl:hzl		-> true
+pid:658716289		-> true
+byr:2001		-> true
+hgt:154cm		-> true
+eyr:2031		-> false
+iyr:2010		-> true
+valid: false
+-------------------------
+iyr:2017		-> true
+ecl:blu		-> true
+byr:1942		-> true
+hcl:#733820		-> true
+eyr:2023		-> true
+hgt:151cm		-> true
+pid:289923625		-> true
+valid: true
+-------------------------
+eyr:2022		-> true
+pid:467667316		-> true
+iyr:2019		-> true
+hcl:#623a2f		-> true
+hgt:161cm		-> true
+ecl:oth		-> true
+valid: false
+-------------------------
+hgt:153cm		-> true
+iyr:2030		-> false
+ecl:grn		-> true
+pid:575037626		-> true
+byr:1921		-> true
+eyr:2021		-> true
+hcl:#866857		-> true
+valid: false
+-------------------------
+pid:081972188		-> true
+iyr:2011		-> true
+hcl:9bb154		-> false
+eyr:2024		-> true
+byr:1966		-> true
+ecl:oth		-> true
+hgt:171cm		-> true
+valid: false
+-------------------------
+ecl:hzl		-> true
+eyr:2030		-> true
+hcl:#733820		-> true
+byr:1944		-> true
+hgt:193cm		-> true
+pid:819137596		-> true
+valid: false
+-------------------------
+hgt:184in		-> false
+ecl:hzl		-> true
+iyr:2018		-> true
+byr:2010		-> false
+eyr:2020		-> true
+pid:171cm		-> false
+valid: false
+-------------------------
+hgt:157in		-> false
+hcl:#cfa07d		-> true
+eyr:2036		-> false
+ecl:#4efa35		-> false
+iyr:2012		-> true
+pid:3943280550		-> false
+byr:1979		-> true
+valid: false
+-------------------------
+hgt:90		-> false
+hcl:#a97842		-> true
+pid:#db1158		-> false
+iyr:1928		-> false
+ecl:#c82a43		-> false
+byr:1971		-> true
+eyr:2036		-> false
+valid: false
+-------------------------
+eyr:2039		-> false
+hgt:69cm		-> false
+iyr:2023		-> false
+pid:568948965		-> true
+byr:2018		-> false
+hcl:z		-> false
+ecl:amb		-> true
+valid: false
+-------------------------
+byr:1925		-> true
+hgt:180cm		-> true
+hcl:#888785		-> true
+iyr:2014		-> true
+pid:402548656		-> true
+eyr:2023		-> true
+ecl:hzl		-> true
+valid: true
+-------------------------
+eyr:2025		-> true
+ecl:brn		-> true
+pid:634481064		-> true
+iyr:2015		-> true
+hcl:#7d3b0c		-> true
+byr:1943		-> true
+valid: false
+-------------------------
+eyr:2028		-> true
+iyr:2019		-> true
+ecl:amb		-> true
+hgt:152cm		-> true
+byr:1928		-> true
+pid:547112666		-> true
+hcl:#623a2f		-> true
+valid: true
+-------------------------
+byr:2013		-> false
+pid:#eb519e		-> false
+eyr:2026		-> true
+hgt:157cm		-> true
+iyr:2030		-> false
+hcl:7e9d5a		-> false
+ecl:oth		-> true
+valid: false
+-------------------------
+ecl:grn		-> true
+eyr:2021		-> true
+pid:34753212		-> false
+hgt:184		-> false
+iyr:1970		-> false
+byr:2012		-> false
+valid: false
+-------------------------
+pid:474742310		-> true
+iyr:2015		-> true
+eyr:2021		-> true
+hcl:#14f5da		-> true
+hgt:163cm		-> true
+ecl:oth		-> true
+valid: false
+-------------------------
+hcl:#efcc98		-> true
+ecl:blu		-> true
+hgt:178cm		-> true
+pid:815309025		-> true
+byr:2024		-> false
+iyr:2008		-> false
+eyr:1922		-> false
+valid: false
+-------------------------
+ecl:blu		-> true
+iyr:2012		-> true
+byr:1972		-> true
+hcl:#888785		-> true
+eyr:2022		-> true
+hgt:179cm		-> true
+pid:293827532		-> true
+valid: true
+-------------------------
+byr:2022		-> false
+hcl:z		-> false
+ecl:#c6ae1f		-> false
+iyr:2028		-> false
+hgt:188cm		-> true
+pid:0883366415		-> false
+eyr:2030		-> true
+valid: false
+-------------------------
+byr:2005		-> false
+hgt:187in		-> false
+eyr:2034		-> false
+iyr:2025		-> false
+hcl:z		-> false
+ecl:gmt		-> false
+pid:78691465		-> false
+valid: false
+-------------------------
+byr:2000		-> true
+hcl:#574f4e		-> true
+eyr:2024		-> true
+iyr:2017		-> true
+pid:#fec795		-> false
+hgt:185cm		-> true
+ecl:gry		-> true
+valid: false
+-------------------------
+pid:566885568		-> true
+hgt:157cm		-> true
+eyr:2021		-> true
+ecl:gry		-> true
+byr:1933		-> true
+hcl:#623a2f		-> true
+valid: false
+-------------------------
+byr:1956		-> true
+hcl:#efcc98		-> true
+hgt:190cm		-> true
+iyr:2010		-> true
+eyr:2023		-> true
+ecl:amb		-> true
+pid:278521396		-> true
+valid: true
+-------------------------
+iyr:2018		-> true
+hcl:1c7db1		-> false
+ecl:#38812e		-> false
+byr:2006		-> false
+eyr:2038		-> false
+pid:1239811353		-> false
+hgt:84		-> false
+valid: false
+-------------------------
+hcl:#b6652a		-> true
+iyr:2023		-> false
+byr:2021		-> false
+hgt:153cm		-> true
+pid:934391984		-> true
+eyr:2021		-> true
+ecl:brn		-> true
+valid: false
+-------------------------
+hcl:#cfa07d		-> true
+byr:1949		-> true
+eyr:1931		-> false
+ecl:#ff9943		-> false
+pid:7550350393		-> false
+hgt:75		-> false
+valid: false
+-------------------------
+eyr:2026		-> true
+iyr:2015		-> true
+ecl:gry		-> true
+hcl:#cfa07d		-> true
+byr:1946		-> true
+valid: false
+-------------------------
+hgt:164cm		-> true
+eyr:1994		-> false
+iyr:2010		-> true
+ecl:amb		-> true
+hcl:#7d3b0c		-> true
+pid:191cm		-> false
+byr:2025		-> false
+valid: false
+-------------------------
+hcl:#c0946f		-> true
+ecl:grn		-> true
+iyr:2013		-> true
+eyr:2024		-> true
+pid:420295283		-> true
+hgt:181cm		-> true
+byr:1977		-> true
+valid: true
+-------------------------
+byr:1931		-> true
+ecl:hzl		-> true
+hgt:168cm		-> true
+eyr:2023		-> true
+pid:956562488		-> true
+hcl:#fffffd		-> true
+valid: false
+-------------------------
+byr:1971		-> true
+ecl:hzl		-> true
+pid:112040163		-> true
+eyr:2023		-> true
+iyr:2019		-> true
+hcl:#b6652a		-> true
+hgt:167cm		-> true
+valid: true
+-------------------------
+hgt:168cm		-> true
+hcl:#602927		-> true
+pid:622067991		-> true
+ecl:amb		-> true
+eyr:2025		-> true
+iyr:2018		-> true
+valid: false
+-------------------------
+ecl:hzl		-> true
+byr:1952		-> true
+eyr:2024		-> true
+hgt:191cm		-> true
+pid:229400637		-> true
+iyr:2011		-> true
+hcl:#122db6		-> true
+valid: true
+-------------------------
+hcl:z		-> false
+ecl:gry		-> true
+hgt:192in		-> false
+pid:542996841		-> true
+iyr:2019		-> true
+eyr:2028		-> true
+byr:2026		-> false
+valid: false
+-------------------------
+pid:57223084		-> false
+hcl:#602927		-> true
+ecl:grn		-> true
+hgt:156cm		-> true
+eyr:1972		-> false
+iyr:2017		-> true
+valid: false
+-------------------------
+ecl:dne		-> false
+hcl:fca461		-> false
+hgt:129		-> false
+iyr:2020		-> true
+eyr:2027		-> true
+byr:2022		-> false
+pid:5014208295		-> false
+valid: false
+-------------------------
+ecl:#dcca8e		-> false
+eyr:2030		-> true
+pid:380057616		-> true
+hcl:z		-> false
+iyr:2026		-> false
+byr:1962		-> true
+valid: false
+-------------------------
+hcl:#888785		-> true
+iyr:2014		-> true
+hgt:173cm		-> true
+byr:2002		-> true
+pid:005350165		-> true
+eyr:2022		-> true
+valid: false
+-------------------------
+pid:711656819		-> true
+ecl:blu		-> true
+eyr:2030		-> true
+hgt:151cm		-> true
+byr:1999		-> true
+hcl:#efcc98		-> true
+valid: false
+-------------------------
+ecl:blu		-> true
+byr:1981		-> true
+iyr:2014		-> true
+hcl:#a97842		-> true
+eyr:2021		-> true
+hgt:172cm		-> true
+pid:714902414		-> true
+valid: true
+-------------------------
+hgt:178cm		-> true
+byr:2013		-> false
+iyr:2026		-> false
+hcl:ad3da1		-> false
+eyr:2020		-> true
+pid:1626818790		-> false
+valid: false
+-------------------------
+ecl:grn		-> true
+eyr:2029		-> true
+hcl:#7d3b0c		-> true
+hgt:158cm		-> true
+byr:1939		-> true
+iyr:2012		-> true
+pid:855145518		-> true
+valid: true
+-------------------------
+eyr:2029		-> true
+hgt:185cm		-> true
+hcl:z		-> false
+iyr:2014		-> true
+pid:#1f4787		-> false
+ecl:grn		-> true
+byr:2010		-> false
+valid: false
+-------------------------
+eyr:2020		-> true
+hcl:#c0946f		-> true
+ecl:amb		-> true
+pid:135511825		-> true
+byr:1954		-> true
+hgt:68in		-> true
+iyr:2017		-> true
+valid: true
+-------------------------
+hgt:67cm		-> false
+eyr:2036		-> false
+byr:2028		-> false
+ecl:grt		-> false
+hcl:08b5ad		-> false
+iyr:2029		-> false
+pid:187cm		-> false
+valid: false
+-------------------------
+byr:1960		-> true
+eyr:2031		-> false
+hgt:184in		-> false
+pid:#ac1606		-> false
+iyr:2013		-> true
+hcl:#888785		-> true
+ecl:#7b2c3b		-> false
+valid: false
+-------------------------
+pid:021102096		-> true
+eyr:2024		-> true
+hgt:66		-> false
+hcl:#a97842		-> true
+byr:1922		-> true
+ecl:gry		-> true
+iyr:2013		-> true
+valid: false
+-------------------------
+pid:605019880		-> true
+iyr:2020		-> true
+hgt:169cm		-> true
+byr:1980		-> true
+hcl:#623a2f		-> true
+ecl:hzl		-> true
+eyr:2030		-> true
+valid: true
+-------------------------
+byr:2014		-> false
+eyr:2028		-> true
+pid:158cm		-> false
+ecl:#946399		-> false
+hgt:99		-> false
+hcl:z		-> false
+iyr:1978		-> false
+valid: false
+-------------------------
+byr:2014		-> false
+hgt:176in		-> true
+iyr:2021		-> false
+hcl:z		-> false
+pid:6361650130		-> false
+eyr:2039		-> false
+ecl:#76310d		-> false
+valid: false
+-------------------------
+hcl:#866857		-> true
+hgt:156cm		-> true
+eyr:2020		-> true
+ecl:grn		-> true
+iyr:2010		-> true
+pid:589945116		-> true
+valid: false
+-------------------------
+byr:1940		-> true
+iyr:1992		-> false
+pid:132016954		-> true
+eyr:2021		-> true
+hcl:#d78bfd		-> true
+ecl:xry		-> false
+valid: false
+-------------------------
+byr:2027		-> false
+hcl:z		-> false
+hgt:61cm		-> false
+ecl:brn		-> true
+pid:836686228		-> true
+eyr:2023		-> true
+iyr:2030		-> false
+valid: false
+-------------------------
+eyr:2026		-> true
+hgt:180cm		-> true
+hcl:#866857		-> true
+ecl:grn		-> true
+iyr:2013		-> true
+byr:1997		-> true
+pid:864648034		-> true
+valid: true
+-------------------------
+hgt:168cm		-> true
+iyr:2015		-> true
+ecl:#3fa48b		-> false
+eyr:2037		-> false
+hcl:#1bf77b		-> true
+byr:1980		-> true
+pid:947370470		-> true
+valid: false
+-------------------------
+byr:1966		-> true
+pid:9953651821		-> false
+ecl:gry		-> true
+iyr:2020		-> true
+hgt:152cm		-> true
+hcl:#fffffd		-> true
+eyr:2026		-> true
+valid: false
+-------------------------
+byr:1989		-> true
+hcl:#6b5442		-> true
+pid:679850983		-> true
+iyr:2020		-> true
+hgt:192cm		-> true
+ecl:blu		-> true
+valid: false
+-------------------------
+eyr:1973		-> false
+iyr:2014		-> true
+byr:2028		-> false
+ecl:gmt		-> false
+hgt:158cm		-> true
+pid:#74f9b8		-> false
+hcl:f6932a		-> false
+valid: false
+-------------------------
+byr:2018		-> false
+hcl:fef19c		-> false
+iyr:2014		-> true
+ecl:blu		-> true
+eyr:2023		-> true
+pid:193cm		-> false
+hgt:156		-> false
+valid: false
+-------------------------
+iyr:2005		-> false
+hgt:64in		-> true
+hcl:89c369		-> false
+ecl:gry		-> true
+byr:1932		-> true
+eyr:2029		-> true
+pid:753055776		-> true
+valid: false
+-------------------------
+eyr:2026		-> true
+pid:092259220		-> true
+byr:1943		-> true
+iyr:2010		-> true
+hgt:153cm		-> true
+hcl:#602927		-> true
+valid: false
+-------------------------
+ecl:brn		-> true
+iyr:2015		-> true
+pid:041582949		-> true
+byr:1938		-> true
+hgt:158cm		-> true
+hcl:#602927		-> true
+eyr:2026		-> true
+valid: true
+-------------------------
+pid:7343429		-> false
+byr:2002		-> true
+hgt:191cm		-> true
+ecl:lzr		-> false
+iyr:1983		-> false
+eyr:1966		-> false
+hcl:#623a2f		-> true
+valid: false
+-------------------------
+eyr:2020		-> true
+ecl:oth		-> true
+byr:1951		-> true
+pid:080392492		-> true
+iyr:2015		-> true
+hcl:#6b5442		-> true
+hgt:176cm		-> true
+valid: true
+-------------------------
+hcl:#888785		-> true
+pid:308480529		-> true
+iyr:2010		-> true
+byr:1988		-> true
+eyr:2025		-> true
+hgt:176cm		-> true
+ecl:amb		-> true
+valid: true
+-------------------------
+ecl:grn		-> true
+hcl:#602927		-> true
+eyr:2029		-> true
+hgt:180cm		-> true
+byr:1974		-> true
+pid:658341964		-> true
+iyr:2017		-> true
+valid: true
+-------------------------
+pid:5052579		-> false
+hgt:193in		-> false
+hcl:z		-> false
+iyr:1942		-> false
+eyr:1977		-> false
+valid: false
+-------------------------
+ecl:grt		-> false
+hgt:72cm		-> false
+byr:2009		-> false
+iyr:2000		-> false
+eyr:1946		-> false
+hcl:7be409		-> false
+pid:996363336		-> true
+valid: false
+-------------------------
+eyr:2026		-> true
+ecl:amb		-> true
+hcl:z		-> false
+pid:746919391		-> true
+iyr:2014		-> true
+hgt:179cm		-> true
+byr:1997		-> true
+valid: false
+-------------------------
+pid:194376910		-> true
+byr:1956		-> true
+hcl:#cd4ab4		-> true
+eyr:1940		-> false
+iyr:2012		-> true
+ecl:#396cc3		-> false
+valid: false
+-------------------------
+pid:108667812		-> true
+eyr:2023		-> true
+hcl:#623a2f		-> true
+hgt:171cm		-> true
+iyr:2018		-> true
+ecl:amb		-> true
+byr:1993		-> true
+valid: true
+-------------------------
+byr:2008		-> false
+hcl:ddc745		-> false
+eyr:2033		-> false
+ecl:#6858b5		-> false
+hgt:64cm		-> false
+iyr:2023		-> false
+pid:89867524		-> false
+valid: false
+-------------------------
+iyr:2015		-> true
+hgt:167cm		-> true
+ecl:hzl		-> true
+pid:088516395		-> true
+hcl:#efcc98		-> true
+byr:1968		-> true
+eyr:2029		-> true
+valid: true
+-------------------------
+pid:406202463		-> true
+byr:1950		-> true
+eyr:2021		-> true
+hcl:#fffffd		-> true
+hgt:177cm		-> true
+ecl:brn		-> true
+valid: false
+-------------------------
+hcl:f0701f		-> false
+pid:161cm		-> false
+hgt:160in		-> true
+iyr:2030		-> false
+ecl:#e12345		-> false
+valid: false
+-------------------------
+hgt:163cm		-> true
+pid:583600660		-> true
+iyr:2015		-> true
+hcl:#18171d		-> true
+byr:1959		-> true
+ecl:brn		-> true
+valid: false
+-------------------------
+eyr:2030		-> true
+pid:86472746		-> false
+ecl:blu		-> true
+hgt:192cm		-> true
+iyr:2013		-> true
+byr:1939		-> true
+hcl:#b6652a		-> true
+valid: false
+-------------------------
+hgt:169cm		-> true
+ecl:gry		-> true
+iyr:2015		-> true
+eyr:2025		-> true
+hcl:#733820		-> true
+pid:240085824		-> true
+byr:1920		-> true
+valid: true
+-------------------------
+hgt:171cm		-> true
+hcl:#cfa07d		-> true
+pid:466737179		-> true
+eyr:2025		-> true
+byr:1937		-> true
+iyr:2020		-> true
+ecl:oth		-> true
+valid: true
+-------------------------
+ecl:amb		-> true
+pid:300188824		-> true
+eyr:2024		-> true
+byr:1954		-> true
+hcl:#b6652a		-> true
+hgt:166cm		-> true
+iyr:2013		-> true
+valid: true
+-------------------------
+ecl:amb		-> true
+iyr:2012		-> true
+eyr:2020		-> true
+hgt:178cm		-> true
+pid:590705772		-> true
+hcl:#c0946f		-> true
+byr:1922		-> true
+valid: true
+-------------------------
+pid:294223216		-> true
+iyr:2012		-> true
+hgt:171cm		-> true
+eyr:2027		-> true
+hcl:#ceb3a1		-> true
+ecl:oth		-> true
+byr:1952		-> true
+valid: true
+-------------------------
+pid:159642237		-> true
+hcl:#81e94d		-> true
+ecl:gry		-> true
+eyr:2028		-> true
+byr:1958		-> true
+valid: false
+-------------------------
+eyr:2021		-> true
+iyr:2011		-> true
+pid:265966660		-> true
+byr:1934		-> true
+hgt:180cm		-> true
+hcl:#7d3b0c		-> true
+ecl:gry		-> true
+valid: true
+-------------------------
+hgt:179cm		-> true
+eyr:2024		-> true
+pid:192cm		-> false
+iyr:2017		-> true
+ecl:grt		-> false
+byr:1934		-> true
+hcl:z		-> false
+valid: false
+-------------------------
+hgt:191cm		-> true
+byr:1960		-> true
+pid:752655640		-> true
+hcl:#888785		-> true
+ecl:blu		-> true
+iyr:2012		-> true
+eyr:2028		-> true
+valid: true
+-------------------------
+iyr:2014		-> true
+pid:161cm		-> false
+eyr:2037		-> false
+byr:2026		-> false
+ecl:gry		-> true
+hgt:60		-> false
+hcl:9fb9e0		-> false
+valid: false
+-------------------------
+pid:923359071		-> true
+byr:1997		-> true
+ecl:#faa530		-> false
+eyr:2028		-> true
+iyr:2013		-> true
+hcl:e6c902		-> false
+hgt:177cm		-> true
+valid: false
+-------------------------
+ecl:gry		-> true
+hgt:150cm		-> true
+hcl:#6b5442		-> true
+byr:1927		-> true
+iyr:2018		-> true
+pid:161cm		-> false
+eyr:2021		-> true
+valid: false
+-------------------------
+hgt:175cm		-> true
+iyr:2014		-> true
+byr:1946		-> true
+eyr:2025		-> true
+hcl:#18171d		-> true
+ecl:oth		-> true
+pid:129913905		-> true
+valid: true
+-------------------------
+ecl:amb		-> true
+iyr:2017		-> true
+byr:1969		-> true
+hcl:#fffffd		-> true
+pid:305746470		-> true
+hgt:173cm		-> true
+valid: false
+-------------------------
+byr:1941		-> true
+pid:299186098		-> true
+hcl:#f1fa72		-> true
+iyr:2013		-> true
+ecl:amb		-> true
+eyr:2022		-> true
+hgt:152cm		-> true
+valid: true
+-------------------------
+pid:44063430		-> false
+hcl:289b20		-> false
+ecl:#77ddd9		-> false
+eyr:1953		-> false
+iyr:1924		-> false
+byr:2026		-> false
+hgt:180in		-> false
+valid: false
+-------------------------
+hgt:168in		-> true
+ecl:lzr		-> false
+eyr:2031		-> false
+pid:#ff10ac		-> false
+byr:2014		-> false
+iyr:2006		-> false
+valid: false
+-------------------------
+iyr:2011		-> true
+pid:320518492		-> true
+eyr:2028		-> true
+byr:1940		-> true
+hgt:164cm		-> true
+hcl:#341e13		-> true
+ecl:grn		-> true
+valid: true
+-------------------------
+eyr:2023		-> true
+hgt:183cm		-> true
+hcl:#6b5442		-> true
+ecl:hzl		-> true
+iyr:2019		-> true
+byr:1971		-> true
+pid:458416257		-> true
+valid: true
+-------------------------
+byr:1943		-> true
+eyr:2024		-> true
+hgt:181cm		-> true
+ecl:brn		-> true
+iyr:2010		-> true
+hcl:#bf813e		-> true
+valid: false
+-------------------------
+hgt:185cm		-> true
+hcl:#7d3b0c		-> true
+eyr:2029		-> true
+ecl:oth		-> true
+iyr:2016		-> true
+byr:1997		-> true
+pid:349316183		-> true
+valid: true
+-------------------------
+pid:550612542		-> true
+ecl:oth		-> true
+byr:1931		-> true
+iyr:2014		-> true
+hcl:#cfa07d		-> true
+hgt:163cm		-> true
+eyr:2026		-> true
+valid: true
+-------------------------
+hgt:154cm		-> true
+ecl:grn		-> true
+iyr:2019		-> true
+byr:1981		-> true
+eyr:2021		-> true
+hcl:#602927		-> true
+pid:427938374		-> true
+valid: true
+-------------------------
+byr:2003		-> false
+pid:4446708453		-> false
+hgt:188cm		-> true
+iyr:2013		-> true
+hcl:#888785		-> true
+ecl:blu		-> true
+eyr:2008		-> false
+valid: false
+-------------------------
+pid:522553186		-> true
+hgt:171cm		-> true
+ecl:grn		-> true
+hcl:#7d3b0c		-> true
+byr:1955		-> true
+eyr:2025		-> true
+iyr:1999		-> false
+valid: false
+-------------------------
+pid:321400085		-> true
+hcl:#733820		-> true
+hgt:189cm		-> true
+ecl:hzl		-> true
+byr:1923		-> true
+eyr:2023		-> true
+iyr:2016		-> true
+valid: true
+-------------------------
+byr:1946		-> true
+eyr:2028		-> true
+pid:364439229		-> true
+iyr:2011		-> true
+hgt:186cm		-> true
+ecl:blu		-> true
+valid: false
+-------------------------
+hgt:96		-> false
+pid:95381813		-> false
+iyr:1950		-> false
+hcl:#fffffd		-> true
+eyr:2026		-> true
+byr:2010		-> false
+ecl:#48a819		-> false
+valid: false
+-------------------------
+iyr:2008		-> false
+byr:2021		-> false
+ecl:zzz		-> false
+hcl:z		-> false
+hgt:109		-> false
+pid:#fc2a91		-> false
+eyr:1957		-> false
+valid: false
+-------------------------
+hgt:62in		-> true
+byr:1921		-> true
+pid:125944934		-> true
+hcl:#b6652a		-> true
+eyr:2025		-> true
+iyr:2018		-> true
+ecl:blu		-> true
+valid: true
+-------------------------
+pid:#c8c988		-> false
+eyr:2027		-> true
+hgt:157in		-> false
+hcl:z		-> false
+iyr:2025		-> false
+byr:2019		-> false
+ecl:zzz		-> false
+valid: false
+-------------------------
+hgt:61cm		-> false
+iyr:2022		-> false
+eyr:1972		-> false
+hcl:979bcf		-> false
+byr:2023		-> false
+pid:44037388		-> false
+ecl:xry		-> false
+valid: false
+-------------------------
+byr:2014		-> false
+hcl:6ce7d6		-> false
+eyr:2030		-> true
+pid:190cm		-> false
+iyr:2018		-> true
+hgt:63cm		-> false
+ecl:#5063b9		-> false
+valid: false
+-------------------------
+iyr:2015		-> true
+byr:1941		-> true
+pid:140123640		-> true
+ecl:amb		-> true
+hgt:153cm		-> true
+hcl:#ceb3a1		-> true
+eyr:2020		-> true
+valid: true
+-------------------------
+iyr:2013		-> true
+hcl:#602927		-> true
+byr:1979		-> true
+hgt:167cm		-> true
+pid:978238277		-> true
+eyr:2020		-> true
+ecl:grn		-> true
+valid: true
+-------------------------
+iyr:1968		-> false
+ecl:lzr		-> false
+pid:#05a4ab		-> false
+eyr:1944		-> false
+hcl:z		-> false
+valid: false
+-------------------------
+ecl:lzr		-> false
+hgt:177in		-> false
+eyr:2037		-> false
+pid:175cm		-> false
+byr:2023		-> false
+hcl:03b398		-> false
+iyr:2026		-> false
+valid: false
+-------------------------
+eyr:2022		-> true
+hgt:168cm		-> true
+pid:786361311		-> true
+iyr:2013		-> true
+hcl:#c0946f		-> true
+byr:1988		-> true
+ecl:hzl		-> true
+valid: true
+-------------------------
+byr:2022		-> false
+eyr:1958		-> false
+ecl:zzz		-> false
+pid:3692521800		-> false
+hcl:8b2b50		-> false
+iyr:1946		-> false
+hgt:155in		-> false
+valid: false
+-------------------------
+ecl:hzl		-> true
+iyr:2013		-> true
+eyr:2024		-> true
+hcl:#02e17f		-> true
+byr:1960		-> true
+hgt:163cm		-> true
+pid:972201795		-> true
+valid: true
+-------------------------
+byr:1936		-> true
+pid:444305229		-> true
+iyr:2013		-> true
+eyr:2025		-> true
+hcl:#733820		-> true
+ecl:gry		-> true
+hgt:175cm		-> true
+valid: true
+-------------------------
+ecl:#4126e5		-> false
+pid:182cm		-> false
+iyr:2021		-> false
+hgt:144		-> false
+eyr:2039		-> false
+hcl:z		-> false
+valid: false
+-------------------------
+hgt:63cm		-> false
+iyr:1964		-> false
+eyr:2032		-> false
+byr:2017		-> false
+hcl:#a97842		-> true
+pid:#1b83f5		-> false
+ecl:gmt		-> false
+valid: false
+-------------------------
+pid:772612093		-> true
+iyr:2027		-> false
+hgt:175in		-> true
+byr:1981		-> true
+hcl:c0b5a9		-> false
+ecl:utc		-> false
+valid: false
+-------------------------
+eyr:2028		-> true
+pid:663108638		-> true
+hgt:75in		-> true
+byr:1962		-> true
+ecl:brn		-> true
+hcl:#733820		-> true
+valid: false
+-------------------------
+ecl:brn		-> true
+pid:990171473		-> true
+eyr:2028		-> true
+byr:1937		-> true
+hgt:165cm		-> true
+iyr:2015		-> true
+hcl:#fffffd		-> true
+valid: true
+-------------------------
+hgt:189cm		-> true
+eyr:2020		-> true
+hcl:#ffeffd		-> true
+iyr:2014		-> true
+byr:1989		-> true
+ecl:grn		-> true
+pid:571696542		-> true
+valid: true
+-------------------------
+iyr:2018		-> true
+hcl:#18171d		-> true
+ecl:brn		-> true
+byr:1933		-> true
+pid:514517439		-> true
+hgt:171cm		-> true
+eyr:2028		-> true
+valid: true
+-------------------------
+ecl:oth		-> true
+byr:2008		-> false
+pid:#db73d9		-> false
+hgt:174cm		-> true
+hcl:#6b5442		-> true
+iyr:1955		-> false
+eyr:2028		-> true
+valid: false
+-------------------------
+byr:2013		-> false
+iyr:2028		-> false
+ecl:lzr		-> false
+pid:5426915565		-> false
+eyr:2018		-> false
+hcl:z		-> false
+hgt:70cm		-> false
+valid: false
+-------------------------
+pid:#c5da2a		-> false
+hgt:162cm		-> true
+hcl:#866857		-> true
+ecl:#fa1f85		-> false
+iyr:1965		-> false
+byr:1963		-> true
+eyr:2039		-> false
+valid: false
+-------------------------
+hcl:#888785		-> true
+iyr:2014		-> true
+byr:1975		-> true
+ecl:blu		-> true
+pid:461319017		-> true
+eyr:2030		-> true
+hgt:154cm		-> true
+valid: true
+-------------------------
+result of part 2 is 102
