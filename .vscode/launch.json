@@ -6,12 +6,9 @@
     "configurations": [
         {
             "name": "Launch",
-            "type": "go",
-            "request": "launch",
-            "mode": "auto",
-            "program": "${workspaceFolder}/2020/day8/main.go",
-            "env": {},
-            "args": []
+            "type": "python",
+            "request": "launch",            
+            "program": "${workspaceFolder}/2020/day9/main.py"
         }
     ]
 }

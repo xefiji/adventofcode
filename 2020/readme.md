@@ -4,3 +4,6 @@
 - [Day 4](day4) (Go)
 - [Day 5](day5) (Go)
 - [Day 6](day6) (Php)
+- [Day 7](day7) (Php)
+- [Day 8](day8) (Go)
+- [Day 9](day9) (Python)
