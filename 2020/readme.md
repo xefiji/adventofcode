@@ -7,3 +7,6 @@
 - [Day 7](day7) (Php)
 - [Day 8](day8) (Go)
 - [Day 9](day9) (Python)
+- [Day 10](day10) (Python)
+- [Day 11](day11) (Python)
+- [Day 12](day12) (Python)
