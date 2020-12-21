@@ -13,3 +13,4 @@
 - [Day 13](day13) (Python)
 - [Day 14](day14) (Python)
 - [Day 15](day15) (Python)
+- [Day 16](day16) (Python)
