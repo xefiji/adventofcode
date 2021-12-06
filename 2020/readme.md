@@ -1,3 +1,5 @@
+# 2020
+
 - [Day 1](day1) (Python)
 - [Day 2](day2) (Python)
 - [Day 3](day3) (Python)
