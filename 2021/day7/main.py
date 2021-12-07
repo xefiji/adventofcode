@@ -6,7 +6,7 @@ def part1():
 
 def part2():
     positions = sorted(list(map(int, open('input.csv').read().split(','))))
-    avg = math.floor(sum(positions)/   (len(positions)))
+    avg = math.floor(sum(positions)/(len(positions)))
     compute = lambda pos:(abs(avg-pos)*(abs(avg-pos)+1))//2
     return sum(list(map(compute, positions)))
 
