@@ -6,14 +6,9 @@ def part1():
 
 def part2():
     positions = sorted(list(map(int, open('input.csv').read().split(','))))
-    avg = math.floor(sum(positions)/(len(positions)))
-    total = 0
-    for pos in positions:        
-        j = 1
-        for i in range(avg, pos, -1 if pos < avg else 1):
-            total += j
-            j += 1
-    return total
+    avg = math.floor(sum(positions)/   (len(positions)))
+    compute = lambda pos:(abs(avg-pos)*(abs(avg-pos)+1))//2
+    return sum(list(map(compute, positions)))
 
 print('result of part 1 is {}'.format(part1()))
 print('result of part 2 is {}'.format(part2()))
