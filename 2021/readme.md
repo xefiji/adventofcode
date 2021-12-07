@@ -4,3 +4,4 @@
 - [Day 4](day4) (Python)
 - [Day 5](day5) (Python)
 - [Day 6](day6) (Python)
+- [Day 7](day7) (Python)
