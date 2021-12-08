@@ -5,3 +5,4 @@
 - [Day 5](day5) (Python)
 - [Day 6](day6) (Python)
 - [Day 7](day7) (Python)
+- [Day 8](day8) (Python)
