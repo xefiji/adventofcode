@@ -31,16 +31,16 @@ def part2():
             sort_string(signals[7][0]): 8
         }
         
-        # melt function to add mask to digit and compare output
-        melt = lambda digit, mask, compared: len(list(dict.fromkeys(digit + mask))) == compared
+        # melt function to add mask to digit and return the melting result
+        melt = lambda digit, mask: len(list(dict.fromkeys(digit + mask)))
 
         # melt 6 with 1 and 4 (should be 6, 0 or 9)
         for elt in signals[6]:
-            if melt(elt, signals[2][0], 7):
+            if melt(elt, signals[2][0]) == 7:
                 res[sort_string(elt)] = 6
                 continue
 
-            if melt(elt, signals[4][0], 7):
+            if melt(elt, signals[4][0]) == 7:
                 res[sort_string(elt)] = 0
                 continue
 
@@ -48,11 +48,11 @@ def part2():
 
         # melt 5 with 4 and 7 (should be 2, 5 or 3)
         for elt in signals[5]:
-            if melt(elt, signals[4][0], 7):
+            if melt(elt, signals[4][0]) == 7:
                 res[sort_string(elt)] = 2
                 continue
 
-            if melt(elt, signals[3][0], 6):
+            if melt(elt, signals[3][0]) == 6:
                 res[sort_string(elt)] = 5
                 continue
 
