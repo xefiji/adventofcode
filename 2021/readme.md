@@ -9,3 +9,5 @@
 - [Day 9](day9) (Python)
 - [Day 10](day10) (Python)
 - [Day 11](day11) (Python)
+- [Day 12](day12) (Python)
+- [Day 13](day13) (Python)
