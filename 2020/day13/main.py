@@ -1,5 +1,4 @@
 import csv, os, sys, functools, time
-from util import display_tstp, display
 
 def get_input(file = 'input.csv'):
     fileName = "{}/2020/day13/{}".format(os.getcwd(), file)
