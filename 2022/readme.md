@@ -2,3 +2,5 @@
 
 - [Day 1](day1) (Python)
 - [Day 2](day2) (Python)
+- [Day 3](day3) (Python)
+- [Day 4](day4) (Python)
